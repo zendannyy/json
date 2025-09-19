@@ -1,0 +1,2702 @@
+[
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA3KG47KEE9FHKFJ3AH",
+      "arn": "arn:aws:iam::6790670:user/user-xoeyexsb",
+      "accountId": "6790670",
+      "userName": "user-xoeyexsb"
+    },
+    "eventTime": "2025-09-08T11:56:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutBucketPolicy",
+    "awsRegion": "eu-west-1",
+    "sourceIPAddress": "226.181.88.210",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "logs-dcjkci8c",
+      "key": "2025/12/09/h0jca84g30a7.json"
+    },
+    "responseElements": null,
+    "requestID": "820c785c6f394bfab74c1efd762fb92a",
+    "eventID": "9b60f7e9-0caa-4573-aba2-b7ca12365828",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "6790670"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAHC4K6IK39HH71J1AA",
+      "arn": "arn:aws:iam::2861866:user/user-bydyhjxx",
+      "accountId": "2861866",
+      "userName": "user-bydyhjxx"
+    },
+    "eventTime": "2025-09-08T03:21:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "ListObject",
+    "awsRegion": "eu-west-1",
+    "sourceIPAddress": "1.190.10.237",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "data-jd6ckd2a",
+      "key": "2025/07/08/j2jd1976jca1.json"
+    },
+    "responseElements": null,
+    "requestID": "7aaced7e8d9a48669f523d94f4d1b203",
+    "eventID": "8e11dbe4-d412-4d47-a885-d9f6ec63d9a6",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "2861866"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAA6A5K23GED4I2FB59",
+      "arn": "arn:aws:iam::3449671:user/user-jiayiyux",
+      "accountId": "3449671",
+      "userName": "user-jiayiyux"
+    },
+    "eventTime": "2025-09-08T07:38:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutObject",
+    "awsRegion": "us-east-1",
+    "sourceIPAddress": "79.183.129.54",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "backup-609ggh21",
+      "key": "2025/10/04/j26djh56aeh8.json"
+    },
+    "responseElements": null,
+    "requestID": "9d05c9aaf4d042d1b02beb4760865e6c",
+    "eventID": "82adca2a-41d8-495c-bc88-38f2220cac1d",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "3449671"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAFB8GG3CB8158EDFH3",
+      "arn": "arn:aws:iam::1559875:user/user-cbptvmav",
+      "accountId": "1559875",
+      "userName": "user-cbptvmav"
+    },
+    "eventTime": "2025-09-08T01:37:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutBucketPolicy",
+    "awsRegion": "us-east-1",
+    "sourceIPAddress": "154.200.250.34",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "archive-812hfdf7",
+      "key": "2025/10/04/10d649hk1695.json"
+    },
+    "responseElements": null,
+    "requestID": "a6e2d7a6db0e4a589b2ba47837519683",
+    "eventID": "7da07c2d-6e88-4c43-8330-bffcd1054298",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1559875"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAKHD0G5HB2AEKJAJF6",
+      "arn": "arn:aws:iam::4671852:user/user-qhihupkm",
+      "accountId": "4671852",
+      "userName": "user-qhihupkm"
+    },
+    "eventTime": "2025-09-08T12:19:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "CreateBucket",
+    "awsRegion": "us-east-1",
+    "sourceIPAddress": "252.28.60.29",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "logs-7f9bd0ff",
+      "key": "2025/10/23/k77haab53fh8.json"
+    },
+    "responseElements": null,
+    "requestID": "8c1ff84bde284213967af9be62a6803b",
+    "eventID": "52ea7ea6-8bea-4942-b260-365e558573f2",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "4671852"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAA94C295715J6K08C3",
+      "arn": "arn:aws:iam::5151455:user/user-exlmrzfk",
+      "accountId": "5151455",
+      "userName": "user-exlmrzfk"
+    },
+    "eventTime": "2025-09-08T16:55:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetBucketPolicy",
+    "awsRegion": "us-west-2",
+    "sourceIPAddress": "242.217.211.24",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "logs-3ahc2dgc",
+      "key": "2025/06/28/kj4daeh4cif3.json"
+    },
+    "responseElements": null,
+    "requestID": "3e958b7433ce4c72bdf95ec4c82a5712",
+    "eventID": "28896772-4f9a-481c-9dd2-ffcc9f306a64",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "5151455"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAH3GIAIE8IEK24A636",
+      "arn": "arn:aws:iam::9064716:user/user-sextyqrv",
+      "accountId": "9064716",
+      "userName": "user-sextyqrv"
+    },
+    "eventTime": "2025-09-07T19:29:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetBucketPolicy",
+    "awsRegion": "us-east-1",
+    "sourceIPAddress": "255.17.227.22",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "archive-h288bi87",
+      "key": "2025/08/18/1j5i545415ai.json"
+    },
+    "responseElements": null,
+    "requestID": "dc6791c6bad34be5b5a28c0772e567df",
+    "eventID": "f244807d-3514-40fd-a0c2-0bcb94256dd9",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "9064716"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAIDI2GI8E068E9653C",
+      "arn": "arn:aws:iam::9984538:user/user-nqinvmwo",
+      "accountId": "9984538",
+      "userName": "user-nqinvmwo"
+    },
+    "eventTime": "2025-09-08T07:30:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetObject",
+    "awsRegion": "eu-east-2",
+    "sourceIPAddress": "183.182.18.69",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "backup-34357icj",
+      "key": "2025/11/05/b94fgked72g8.json"
+    },
+    "responseElements": null,
+    "requestID": "ce31cae084bc4db6a3560ccc7743e567",
+    "eventID": "43fdc1fb-9825-4f18-aeea-5f8c0d58d779",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "9984538"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA8D425K76BEF7G71FK",
+      "arn": "arn:aws:iam::7509995:user/user-cyptwmyk",
+      "accountId": "7509995",
+      "userName": "user-cyptwmyk"
+    },
+    "eventTime": "2025-09-08T10:23:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "ListObject",
+    "awsRegion": "us-west-2",
+    "sourceIPAddress": "179.95.196.21",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "logs-kf34hjic",
+      "key": "2025/09/06/i515k2596068.json"
+    },
+    "responseElements": null,
+    "requestID": "f876130caa924e018304fe062e85b82f",
+    "eventID": "ce4789c9-ec6c-4007-a5d3-70c1943595e0",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "7509995"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAE8HGC14H2FH7242CJ",
+      "arn": "arn:aws:iam::1300021:user/user-rdwasjha",
+      "accountId": "1300021",
+      "userName": "user-rdwasjha"
+    },
+    "eventTime": "2025-09-08T02:26:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DeleteObject",
+    "awsRegion": "us-east-1",
+    "sourceIPAddress": "43.84.155.34",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "backup-2i18jffe",
+      "key": "2025/09/25/1e124gg7fbaj.json"
+    },
+    "responseElements": null,
+    "requestID": "8260b62c4d794685a074aeeefaf7d12a",
+    "eventID": "30863f97-6b1d-4a11-a284-d11a4d8fc32c",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1300021"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA8DIA7202A2AJCG4C9",
+      "arn": "arn:aws:iam::4470134:user/user-epopetqs",
+      "accountId": "4470134",
+      "userName": "user-epopetqs"
+    },
+    "eventTime": "2025-09-07T23:00:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetObject",
+    "awsRegion": "eu-west-2",
+    "sourceIPAddress": "209.152.201.142",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "archive-i6jhccd1",
+      "key": "2025/06/13/5d4ifagadh6k.json"
+    },
+    "responseElements": null,
+    "requestID": "954db49896014d5caf1a34927dbadd2a",
+    "eventID": "80193fa6-641b-41f7-978d-bb1b8927d6b1",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "4470134"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA6FK654H3KI05JAGEC",
+      "arn": "arn:aws:iam::1342373:user/user-kxyedhpo",
+      "accountId": "1342373",
+      "userName": "user-kxyedhpo"
+    },
+    "eventTime": "2025-09-08T15:59:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DescribeInstances",
+    "awsRegion": "eu-west-2",
+    "sourceIPAddress": "157.194.81.153",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "archive-447dg9i3",
+      "key": "2025/12/19/7gikbb1h9a0f.json"
+    },
+    "responseElements": null,
+    "requestID": "ebd1ce09134447cd8fb186595121cbd1",
+    "eventID": "4d6c3f13-e715-4485-a174-bd0b708838b5",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1342373"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKACD65A2CH3JEE08FI1",
+      "arn": "arn:aws:iam::4708443:user/user-flcvceam",
+      "accountId": "4708443",
+      "userName": "user-flcvceam"
+    },
+    "eventTime": "2025-09-08T13:31:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutObject",
+    "awsRegion": "eu-east-2",
+    "sourceIPAddress": "161.76.10.22",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "backup-b38jgbja",
+      "key": "2025/09/05/91fk18f34b1f.json"
+    },
+    "responseElements": null,
+    "requestID": "39c37c446cf6457cb40511ad9601a6bc",
+    "eventID": "48a77cb0-127e-4015-ad85-f40d71f65015",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "4708443"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA00K954FJ9C1282E9A",
+      "arn": "arn:aws:iam::9984174:user/user-roflqobp",
+      "accountId": "9984174",
+      "userName": "user-roflqobp"
+    },
+    "eventTime": "2025-09-08T07:12:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DescribeInstances",
+    "awsRegion": "eu-west-2",
+    "sourceIPAddress": "213.231.222.185",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "data-4095i1ii",
+      "key": "2025/10/02/bg21978ii4j7.json"
+    },
+    "responseElements": null,
+    "requestID": "b3ad597ce7f74cb5ad80af726f6205ba",
+    "eventID": "a2c36dd7-3130-455a-aed8-1610f542cc84",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "9984174"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAKBHAKBB2GF8JKDKA4",
+      "arn": "arn:aws:iam::1269343:user/user-uozimvig",
+      "accountId": "1269343",
+      "userName": "user-uozimvig"
+    },
+    "eventTime": "2025-09-08T05:31:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutBucketPolicy",
+    "awsRegion": "us-west-1",
+    "sourceIPAddress": "41.40.105.232",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "logs-3h10j28d",
+      "key": "2025/08/28/352a6kdhcj36.json"
+    },
+    "responseElements": null,
+    "requestID": "f6a52aad53fb478c8440c001a2061f2a",
+    "eventID": "c2accdbe-c76a-4556-ac7a-a46f56a896bf",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1269343"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAE4CKJ2GE794I24357",
+      "arn": "arn:aws:iam::7435860:user/user-smhwwzgs",
+      "accountId": "7435860",
+      "userName": "user-smhwwzgs"
+    },
+    "eventTime": "2025-09-08T16:38:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetBucketPolicy",
+    "awsRegion": "eu-west-1",
+    "sourceIPAddress": "27.148.173.212",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "archive-959bifk2",
+      "key": "2025/07/10/b987hg682dcf.json"
+    },
+    "responseElements": null,
+    "requestID": "e629e457362145dbad239bd4bb811f2e",
+    "eventID": "4d6ab12b-9fa9-439d-a825-c828aca23629",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "7435860"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAG7957H8H9AJ404FC5",
+      "arn": "arn:aws:iam::5577499:user/user-hhokpvnl",
+      "accountId": "5577499",
+      "userName": "user-hhokpvnl"
+    },
+    "eventTime": "2025-09-08T05:47:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DeleteObject",
+    "awsRegion": "us-east-2",
+    "sourceIPAddress": "225.225.18.42",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "archive-7912a6bj",
+      "key": "2025/10/02/b04fdg5h7h92.json"
+    },
+    "responseElements": null,
+    "requestID": "3dc18d85899c43ac9a613581360d7cfa",
+    "eventID": "be1dfe80-7cf5-4719-bacb-bba171488035",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "5577499"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA99744266JD8HAH525",
+      "arn": "arn:aws:iam::5653652:user/user-quajtftz",
+      "accountId": "5653652",
+      "userName": "user-quajtftz"
+    },
+    "eventTime": "2025-09-08T10:21:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutBucketPolicy",
+    "awsRegion": "eu-east-2",
+    "sourceIPAddress": "77.60.42.254",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "backup-9bfcdc55",
+      "key": "2025/06/23/cahj62kd44g5.json"
+    },
+    "responseElements": null,
+    "requestID": "33d087b3a2394d5c90b629fae99a1a3f",
+    "eventID": "c1c58179-c362-4448-8eee-c1fc93ce0f80",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "5653652"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKACG3D5878172390JKI",
+      "arn": "arn:aws:iam::3181904:user/user-hewfvkxi",
+      "accountId": "3181904",
+      "userName": "user-hewfvkxi"
+    },
+    "eventTime": "2025-09-08T10:51:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutObject",
+    "awsRegion": "us-east-1",
+    "sourceIPAddress": "15.184.110.67",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "archive-e096kg98",
+      "key": "2025/08/15/249f8k0ifib5.json"
+    },
+    "responseElements": null,
+    "requestID": "4553baee27664663b03b93b297d4835c",
+    "eventID": "1840ff79-70f2-4e85-b7f3-dc43a78a16b8",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "3181904"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAB7K41HDA39GHH8596",
+      "arn": "arn:aws:iam::9215766:user/user-eruyfpuh",
+      "accountId": "9215766",
+      "userName": "user-eruyfpuh"
+    },
+    "eventTime": "2025-09-08T10:32:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutObject",
+    "awsRegion": "eu-west-1",
+    "sourceIPAddress": "210.19.63.18",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "logs-ia1kjkjj",
+      "key": "2025/07/18/0332a80kbbi1.json"
+    },
+    "responseElements": null,
+    "requestID": "26f17b4e471b4335ae65007212140729",
+    "eventID": "651cccc2-f34c-44bf-be10-83b14ea1a889",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "9215766"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA37211361I8840A766",
+      "arn": "arn:aws:iam::7019018:user/user-pjyxckxy",
+      "accountId": "7019018",
+      "userName": "user-pjyxckxy"
+    },
+    "eventTime": "2025-09-07T20:54:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutObject",
+    "awsRegion": "us-west-1",
+    "sourceIPAddress": "195.186.177.233",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "archive-e4f3kcdk",
+      "key": "2025/08/17/8khi267fdfef.json"
+    },
+    "responseElements": null,
+    "requestID": "9d9392ca0b3e48f99116049fadb3bc72",
+    "eventID": "8aeff8dd-13ae-4156-82e7-836017eeb7d1",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "7019018"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAK1JKJ57ABCJ8A5FC0",
+      "arn": "arn:aws:iam::3932632:user/user-kcaoltoy",
+      "accountId": "3932632",
+      "userName": "user-kcaoltoy"
+    },
+    "eventTime": "2025-09-08T04:01:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutObject",
+    "awsRegion": "us-west-1",
+    "sourceIPAddress": "138.63.44.137",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "archive-ig66ebi5",
+      "key": "2025/11/13/66f68hkhge28.json"
+    },
+    "responseElements": null,
+    "requestID": "810475916bce4f70add83cb2a7464750",
+    "eventID": "a274a09b-d70e-48e0-92cb-aa624476b3f7",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "3932632"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA3CGEH7DF49B4CH499",
+      "arn": "arn:aws:iam::6183699:user/user-zoiqqflv",
+      "accountId": "6183699",
+      "userName": "user-zoiqqflv"
+    },
+    "eventTime": "2025-09-08T16:30:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutBucketPolicy",
+    "awsRegion": "eu-west-2",
+    "sourceIPAddress": "158.139.13.69",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "logs-3b64ed46",
+      "key": "2025/11/03/fkbk4ecciaj3.json"
+    },
+    "responseElements": null,
+    "requestID": "e41ace6f22944dc68521582f3c4d19d2",
+    "eventID": "de643c70-3e42-4005-87eb-1f4594d74294",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "6183699"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA665CGA4JJAK4G3FKC",
+      "arn": "arn:aws:iam::2155147:user/user-qsfxpvoz",
+      "accountId": "2155147",
+      "userName": "user-qsfxpvoz"
+    },
+    "eventTime": "2025-09-08T09:56:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutBucketPolicy",
+    "awsRegion": "eu-east-2",
+    "sourceIPAddress": "24.137.168.108",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "data-g1c9h935",
+      "key": "2025/11/28/c324a18ebf0i.json"
+    },
+    "responseElements": null,
+    "requestID": "ada9dc63540c4ea9bfec5253d073079f",
+    "eventID": "7d8d8573-5696-4d76-a802-79bc4d193e82",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "2155147"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA7720K1K8K5EDA14G9",
+      "arn": "arn:aws:iam::6304296:user/user-cujlnsum",
+      "accountId": "6304296",
+      "userName": "user-cujlnsum"
+    },
+    "eventTime": "2025-09-07T21:00:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DeleteObject",
+    "awsRegion": "us-east-2",
+    "sourceIPAddress": "159.106.112.198",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "backup-gg7fg9b9",
+      "key": "2025/09/22/8c18bcb64428.json"
+    },
+    "responseElements": null,
+    "requestID": "cd4ca9608fab4a1686aac6c173336564",
+    "eventID": "88deb34b-73c8-44f4-99a9-3e150ac748a3",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "6304296"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA48K73ABD4BF93EGA9",
+      "arn": "arn:aws:iam::8313182:user/user-dsugoppc",
+      "accountId": "8313182",
+      "userName": "user-dsugoppc"
+    },
+    "eventTime": "2025-09-07T18:46:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetObject",
+    "awsRegion": "eu-east-2",
+    "sourceIPAddress": "218.178.152.239",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "logs-a30h7b93",
+      "key": "2025/06/24/101dbejhf665.json"
+    },
+    "responseElements": null,
+    "requestID": "91df5f5efec249de8bb31aa6efe157af",
+    "eventID": "c87422a8-1e60-4124-865c-cf0c1aed50d6",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "8313182"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA8HK2DBAF4KIE96I4J",
+      "arn": "arn:aws:iam::3868119:user/user-iwmqveox",
+      "accountId": "3868119",
+      "userName": "user-iwmqveox"
+    },
+    "eventTime": "2025-09-07T19:19:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DeleteObject",
+    "awsRegion": "eu-west-1",
+    "sourceIPAddress": "7.153.85.75",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "archive-c7728c3d",
+      "key": "2025/09/08/708jjj2h6699.json"
+    },
+    "responseElements": null,
+    "requestID": "740f21413a454c13a91f9edb78625371",
+    "eventID": "207813df-b229-4e9a-af2f-fd6aa7f69833",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "3868119"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAGKK737GI94EGD2BCE",
+      "arn": "arn:aws:iam::3556165:user/user-qtfmhnke",
+      "accountId": "3556165",
+      "userName": "user-qtfmhnke"
+    },
+    "eventTime": "2025-09-07T19:40:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutObject",
+    "awsRegion": "us-east-1",
+    "sourceIPAddress": "220.134.159.190",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "data-05gi29g2",
+      "key": "2025/07/21/9kj5bgbcbc17.json"
+    },
+    "responseElements": null,
+    "requestID": "b7ae21193d3841969dc6e52c41bde02c",
+    "eventID": "a26a51d5-8358-468d-b4cf-f836e5abd413",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "3556165"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAH40B9H362FI341HK7",
+      "arn": "arn:aws:iam::1617940:user/user-timnewsg",
+      "accountId": "1617940",
+      "userName": "user-timnewsg"
+    },
+    "eventTime": "2025-09-07T23:15:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetBucketPolicy",
+    "awsRegion": "eu-west-2",
+    "sourceIPAddress": "228.224.68.8",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "backup-b9a26i39",
+      "key": "2025/12/07/j0b4389a1ik4.json"
+    },
+    "responseElements": null,
+    "requestID": "83e49241de0c41ffa4136510068b702e",
+    "eventID": "add86ff6-2176-4704-962f-8ae085d73d1d",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1617940"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAF22FH7244EG468EHH",
+      "arn": "arn:aws:iam::2339473:user/user-xypubqql",
+      "accountId": "2339473",
+      "userName": "user-xypubqql"
+    },
+    "eventTime": "2025-09-08T14:46:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "ListObject",
+    "awsRegion": "eu-east-2",
+    "sourceIPAddress": "230.167.77.108",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "backup-0ic3j47g",
+      "key": "2025/11/20/9dk108f4cc2k.json"
+    },
+    "responseElements": null,
+    "requestID": "2facb166bc6045c6b77b4695790b609f",
+    "eventID": "c931747b-76e4-4b11-879b-22b00cab70ed",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "2339473"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA053BIE2CH1GJE9CKF",
+      "arn": "arn:aws:iam::7919415:user/user-xysoihwt",
+      "accountId": "7919415",
+      "userName": "user-xysoihwt"
+    },
+    "eventTime": "2025-09-08T08:42:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DescribeInstances",
+    "awsRegion": "eu-west-1",
+    "sourceIPAddress": "8.64.140.218",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "archive-0100b439",
+      "key": "2025/12/08/b55fbab1a9j5.json"
+    },
+    "responseElements": null,
+    "requestID": "a93c358f56384ba781fea4f8dfdb6f7d",
+    "eventID": "364d8c21-149f-4c3f-afca-dda4afd89f28",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "7919415"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAKJ8F4FE1F7G4K3IB6",
+      "arn": "arn:aws:iam::5593392:user/user-lnbvvyml",
+      "accountId": "5593392",
+      "userName": "user-lnbvvyml"
+    },
+    "eventTime": "2025-09-07T21:01:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetBucketPolicy",
+    "awsRegion": "eu-east-2",
+    "sourceIPAddress": "171.90.104.90",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "archive-2ig2348f",
+      "key": "2025/08/12/h5i8ch1ghf0b.json"
+    },
+    "responseElements": null,
+    "requestID": "fa52914432a74d32b1cd4ba03d39b983",
+    "eventID": "64259290-b11d-4546-a9a4-e74311d191ff",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "5593392"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA6G3CC9B28BBHI149J",
+      "arn": "arn:aws:iam::1863586:user/user-ebewnruz",
+      "accountId": "1863586",
+      "userName": "user-ebewnruz"
+    },
+    "eventTime": "2025-09-08T13:34:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutBucketPolicy",
+    "awsRegion": "us-east-2",
+    "sourceIPAddress": "98.16.225.230",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "archive-b78g3044",
+      "key": "2025/07/09/8bg8cgeki6ba.json"
+    },
+    "responseElements": null,
+    "requestID": "b31dfeb731b24606ad55975b45d450d6",
+    "eventID": "9759c0e8-e69a-4cf9-9a87-18e1a13f0fd3",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1863586"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAB221J9924997352J9",
+      "arn": "arn:aws:iam::8989190:user/user-qgfhlter",
+      "accountId": "8989190",
+      "userName": "user-qgfhlter"
+    },
+    "eventTime": "2025-09-08T00:03:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetBucketPolicy",
+    "awsRegion": "us-west-1",
+    "sourceIPAddress": "124.126.166.63",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "archive-jdj2k5e5",
+      "key": "2025/06/07/7a0fgg902fc1.json"
+    },
+    "responseElements": null,
+    "requestID": "e2896d15df47417e9cc408673a07c61e",
+    "eventID": "219cf9bf-a17e-48be-87cb-8afbb8a0e9ab",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "8989190"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAHBGAH3BDC5GKEDG55",
+      "arn": "arn:aws:iam::5359235:user/user-aazindoy",
+      "accountId": "5359235",
+      "userName": "user-aazindoy"
+    },
+    "eventTime": "2025-09-07T22:29:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "ListObject",
+    "awsRegion": "us-west-2",
+    "sourceIPAddress": "214.247.253.186",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "data-b6ah29k0",
+      "key": "2025/12/14/52ik5gih50e6.json"
+    },
+    "responseElements": null,
+    "requestID": "e25a23d59ea047e19deb31165eb4e2da",
+    "eventID": "c70ff9a6-e98c-4aa5-80bc-c8b0b211a899",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "5359235"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAKG1GHCJBE561425BH",
+      "arn": "arn:aws:iam::1775668:user/user-uqamagwy",
+      "accountId": "1775668",
+      "userName": "user-uqamagwy"
+    },
+    "eventTime": "2025-09-07T19:40:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DescribeInstances",
+    "awsRegion": "eu-west-1",
+    "sourceIPAddress": "19.150.35.186",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "logs-8c30c39i",
+      "key": "2025/07/12/cf80157j45i8.json"
+    },
+    "responseElements": null,
+    "requestID": "c898383c8aa44dee928a4da2317d29e2",
+    "eventID": "8d91b5d6-a27d-4f34-aa76-88158997c4e3",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1775668"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKABKKGBF0825G2F97C6",
+      "arn": "arn:aws:iam::6739634:user/user-aotfezce",
+      "accountId": "6739634",
+      "userName": "user-aotfezce"
+    },
+    "eventTime": "2025-09-07T23:58:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DeleteObject",
+    "awsRegion": "us-east-1",
+    "sourceIPAddress": "83.94.186.108",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "backup-b26a913a",
+      "key": "2025/10/13/dkcc3ab97bka.json"
+    },
+    "responseElements": null,
+    "requestID": "84d0bd559ce94df9a236634043fdeee9",
+    "eventID": "240bc9b9-e3a2-43d7-9ef5-2ae926240f52",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "6739634"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAK888B5651JCH742FI",
+      "arn": "arn:aws:iam::6231038:user/user-fgjduhlu",
+      "accountId": "6231038",
+      "userName": "user-fgjduhlu"
+    },
+    "eventTime": "2025-09-08T09:59:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "CreateBucket",
+    "awsRegion": "eu-west-2",
+    "sourceIPAddress": "41.207.114.200",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "backup-i8if41b8",
+      "key": "2025/10/10/4bki99khh3c1.json"
+    },
+    "responseElements": null,
+    "requestID": "5f916d29746f4c898701c721e3145388",
+    "eventID": "3a11646c-47dd-43e0-9a28-a99806982157",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "6231038"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA230A5J2ICE089C95E",
+      "arn": "arn:aws:iam::6580213:user/user-aflggzdl",
+      "accountId": "6580213",
+      "userName": "user-aflggzdl"
+    },
+    "eventTime": "2025-09-07T19:11:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DeleteObject",
+    "awsRegion": "eu-east-1",
+    "sourceIPAddress": "1.25.34.72",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "backup-76a1gfc2",
+      "key": "2025/06/27/i0jdc0fafckk.json"
+    },
+    "responseElements": null,
+    "requestID": "79455bfc696b4e59a3e930f23423d43a",
+    "eventID": "50dd9a05-727d-478e-acec-23cefbcd01f4",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "6580213"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAIF5GF9HA7J0322GGC",
+      "arn": "arn:aws:iam::4260213:user/user-domhpogm",
+      "accountId": "4260213",
+      "userName": "user-domhpogm"
+    },
+    "eventTime": "2025-09-08T05:34:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DescribeInstances",
+    "awsRegion": "us-east-2",
+    "sourceIPAddress": "194.237.23.183",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "backup-fh99hjei",
+      "key": "2025/08/22/0icj33874ga3.json"
+    },
+    "responseElements": null,
+    "requestID": "777016ac362d459585884c938dd0758f",
+    "eventID": "e19eaa18-7398-4d70-b678-cafcb4598957",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "4260213"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAJ2B67EGJA424K5F45",
+      "arn": "arn:aws:iam::6313760:user/user-jxxalgng",
+      "accountId": "6313760",
+      "userName": "user-jxxalgng"
+    },
+    "eventTime": "2025-09-08T09:43:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DescribeInstances",
+    "awsRegion": "eu-west-1",
+    "sourceIPAddress": "186.86.105.197",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "backup-jgibb9a5",
+      "key": "2025/06/25/b82be2ja4je6.json"
+    },
+    "responseElements": null,
+    "requestID": "62c7811d5c45440c86c17afa692eeab6",
+    "eventID": "9460277e-1359-4cd4-a44b-df4c1d78947f",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "6313760"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAFEKG9JFDK1273DEAE",
+      "arn": "arn:aws:iam::1054901:user/user-btviqjsg",
+      "accountId": "1054901",
+      "userName": "user-btviqjsg"
+    },
+    "eventTime": "2025-09-08T12:06:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "CreateBucket",
+    "awsRegion": "us-west-2",
+    "sourceIPAddress": "79.48.251.195",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "data-d2ieigc1",
+      "key": "2025/10/25/2dcadj1kg6ce.json"
+    },
+    "responseElements": null,
+    "requestID": "8f03e8d601ee480882a896cfebdcfa54",
+    "eventID": "75921faf-9815-4f66-9751-f56718163317",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1054901"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAJ96KHEK635D279CD4",
+      "arn": "arn:aws:iam::7751643:user/user-ogrrzshq",
+      "accountId": "7751643",
+      "userName": "user-ogrrzshq"
+    },
+    "eventTime": "2025-09-08T16:53:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetBucketPolicy",
+    "awsRegion": "eu-west-1",
+    "sourceIPAddress": "98.232.224.157",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "data-9904937i",
+      "key": "2025/08/12/gb325h6b4f3g.json"
+    },
+    "responseElements": null,
+    "requestID": "e350c159b2244ad1845b0326a4d1cc7d",
+    "eventID": "caf944a3-f227-4ce2-965a-f831adaecc99",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "7751643"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA6A70JG7FA0G2FK77J",
+      "arn": "arn:aws:iam::9143135:user/user-uqduavlp",
+      "accountId": "9143135",
+      "userName": "user-uqduavlp"
+    },
+    "eventTime": "2025-09-08T05:10:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetObject",
+    "awsRegion": "us-east-1",
+    "sourceIPAddress": "223.236.103.171",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "backup-k0k0c88a",
+      "key": "2025/06/21/bj3a125dc704.json"
+    },
+    "responseElements": null,
+    "requestID": "59a03af80e154419976133904beb25ba",
+    "eventID": "beeb0846-7bde-4acd-a89d-f254529c47f6",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "9143135"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA367ACA58B04BGGED5",
+      "arn": "arn:aws:iam::1680370:user/user-xnjpzmjt",
+      "accountId": "1680370",
+      "userName": "user-xnjpzmjt"
+    },
+    "eventTime": "2025-09-07T23:15:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetBucketPolicy",
+    "awsRegion": "eu-east-1",
+    "sourceIPAddress": "238.20.188.238",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "backup-dbdaf0hh",
+      "key": "2025/07/04/27163249iibj.json"
+    },
+    "responseElements": null,
+    "requestID": "34c14da896124800bf90d24a6dbab03f",
+    "eventID": "de3d59a7-e546-4d7c-861f-c5c7c79dd3ff",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1680370"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKADI06FF49HAI0G4DK6",
+      "arn": "arn:aws:iam::3777377:user/user-zhdpohdm",
+      "accountId": "3777377",
+      "userName": "user-zhdpohdm"
+    },
+    "eventTime": "2025-09-08T03:16:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "CreateBucket",
+    "awsRegion": "us-east-2",
+    "sourceIPAddress": "89.54.158.227",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "data-gbf1bge2",
+      "key": "2025/11/11/a7b3ag32ce75.json"
+    },
+    "responseElements": null,
+    "requestID": "1bccb9fdf3b44d13a10787d26270d8af",
+    "eventID": "bb500a61-4bda-489a-9a44-d12612eab4de",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "3777377"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAE45C048G5A8CG5I54",
+      "arn": "arn:aws:iam::7527438:user/user-thajvous",
+      "accountId": "7527438",
+      "userName": "user-thajvous"
+    },
+    "eventTime": "2025-09-08T02:52:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetObject",
+    "awsRegion": "us-west-2",
+    "sourceIPAddress": "18.108.135.62",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "archive-e7ffkbke",
+      "key": "2025/06/12/i007eabjj80c.json"
+    },
+    "responseElements": null,
+    "requestID": "508cac6eaeb54d19a267ff4bae7aa79c",
+    "eventID": "8b7524f8-1734-40c2-8817-361cd9df6cf4",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "7527438"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA6DHG8GE0KI500IAAG",
+      "arn": "arn:aws:iam::3937751:user/user-iypmtbex",
+      "accountId": "3937751",
+      "userName": "user-iypmtbex"
+    },
+    "eventTime": "2025-09-08T03:43:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "ListObject",
+    "awsRegion": "eu-west-2",
+    "sourceIPAddress": "151.27.112.96",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "data-jkab4ja8",
+      "key": "2025/12/18/k687c2jib42h.json"
+    },
+    "responseElements": null,
+    "requestID": "5acfd4631c374571a61d863bc6446eaf",
+    "eventID": "7defd5c9-e7ec-4268-b605-d97e01b722b7",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "3937751"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA0EC6F6G69BJ4D20I0",
+      "arn": "arn:aws:iam::7642972:user/user-achjqvsw",
+      "accountId": "7642972",
+      "userName": "user-achjqvsw"
+    },
+    "eventTime": "2025-09-07T21:34:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "CreateBucket",
+    "awsRegion": "eu-west-1",
+    "sourceIPAddress": "190.205.210.59",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "logs-h6f3d158",
+      "key": "2025/10/06/0ccgk1jfdhda.json"
+    },
+    "responseElements": null,
+    "requestID": "369fcbbdbabe43b28b1d19abd315c76b",
+    "eventID": "59c618bb-4f6f-4b04-9f05-7ee4ed875dfe",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "7642972"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAE8HD1J68BD04AJ8F5",
+      "arn": "arn:aws:iam::1205009:user/user-rqejsrxl",
+      "accountId": "1205009",
+      "userName": "user-rqejsrxl"
+    },
+    "eventTime": "2025-09-08T12:05:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutBucketPolicy",
+    "awsRegion": "eu-west-2",
+    "sourceIPAddress": "66.169.139.123",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "data-a83fb3ag",
+      "key": "2025/08/24/a4935eae619d.json"
+    },
+    "responseElements": null,
+    "requestID": "2e98e83fec154b2ca244ef45c1c8cc90",
+    "eventID": "0f338f66-1f5d-4e74-a913-288f34007d52",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1205009"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKACBJ58CH34J8GDA9A3",
+      "arn": "arn:aws:iam::3748038:user/user-fpggumul",
+      "accountId": "3748038",
+      "userName": "user-fpggumul"
+    },
+    "eventTime": "2025-09-08T14:08:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetObject",
+    "awsRegion": "us-east-2",
+    "sourceIPAddress": "144.165.156.54",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "logs-e2bec14b",
+      "key": "2025/12/16/k05d43h02a91.json"
+    },
+    "responseElements": null,
+    "requestID": "6f9a12bd80d841dea63990e066038706",
+    "eventID": "da968cbb-c25b-4edd-a35d-f70df4cae9d2",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "3748038"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAFCFFB5C8FH5862DC7",
+      "arn": "arn:aws:iam::6296232:user/user-yzbdanex",
+      "accountId": "6296232",
+      "userName": "user-yzbdanex"
+    },
+    "eventTime": "2025-09-08T04:53:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutBucketPolicy",
+    "awsRegion": "us-east-2",
+    "sourceIPAddress": "54.76.18.201",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "logs-3ej9h8j1",
+      "key": "2025/10/25/1ikchhhd647j.json"
+    },
+    "responseElements": null,
+    "requestID": "09e65d48d4ea4dd5902a081c4a3e7579",
+    "eventID": "ab20b0aa-bac0-43a4-a7eb-ffd8fd9ce8d3",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "6296232"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAB5FD2280BE286EDKC",
+      "arn": "arn:aws:iam::4982038:user/user-vssejfwu",
+      "accountId": "4982038",
+      "userName": "user-vssejfwu"
+    },
+    "eventTime": "2025-09-07T21:01:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DescribeInstances",
+    "awsRegion": "eu-east-1",
+    "sourceIPAddress": "36.109.234.240",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "archive-ac43kj0g",
+      "key": "2025/09/02/cdki415a6k0f.json"
+    },
+    "responseElements": null,
+    "requestID": "93f2b6c4e95f4a5c88c759d7071537d5",
+    "eventID": "4b235727-00a8-4e64-8be9-75e35a1d3bd3",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "4982038"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAI6CE6AJ9F4I49J5KF",
+      "arn": "arn:aws:iam::9734994:user/user-aashnqnw",
+      "accountId": "9734994",
+      "userName": "user-aashnqnw"
+    },
+    "eventTime": "2025-09-07T22:20:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutObject",
+    "awsRegion": "us-west-2",
+    "sourceIPAddress": "9.208.25.199",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "archive-d99g00ig",
+      "key": "2025/06/15/d79bd36j5341.json"
+    },
+    "responseElements": null,
+    "requestID": "90543aaa1d02404dac430ff49f601bac",
+    "eventID": "da6d9e14-6d12-4229-9a7f-9564bf3c0d3b",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "9734994"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA1J6B64HE0E4B67867",
+      "arn": "arn:aws:iam::9288923:user/user-lhxkjgxi",
+      "accountId": "9288923",
+      "userName": "user-lhxkjgxi"
+    },
+    "eventTime": "2025-09-08T12:36:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "CreateBucket",
+    "awsRegion": "eu-east-1",
+    "sourceIPAddress": "89.142.148.237",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "archive-4hgk29jc",
+      "key": "2025/10/12/55fh89k2a10k.json"
+    },
+    "responseElements": null,
+    "requestID": "1857ea35642148ae8b7d628c60d12106",
+    "eventID": "3fc89528-c03e-4aea-9917-1ace6393f341",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "9288923"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAA48CAI7BI9IH394J7",
+      "arn": "arn:aws:iam::1322762:user/user-gqrnqeea",
+      "accountId": "1322762",
+      "userName": "user-gqrnqeea"
+    },
+    "eventTime": "2025-09-08T16:21:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DeleteObject",
+    "awsRegion": "us-east-2",
+    "sourceIPAddress": "46.233.104.116",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "logs-ejkekkg1",
+      "key": "2025/08/08/b987ci88gjj8.json"
+    },
+    "responseElements": null,
+    "requestID": "b0e64b632ee94797aeaea633714a45ab",
+    "eventID": "a7259931-3449-4d30-a540-216070744c17",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1322762"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA44I53DCH1BBG8E69E",
+      "arn": "arn:aws:iam::7183776:user/user-wpwwxvej",
+      "accountId": "7183776",
+      "userName": "user-wpwwxvej"
+    },
+    "eventTime": "2025-09-08T09:24:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutBucketPolicy",
+    "awsRegion": "eu-west-2",
+    "sourceIPAddress": "123.178.149.127",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "logs-jeb5g1b1",
+      "key": "2025/11/10/g8fi88i15c80.json"
+    },
+    "responseElements": null,
+    "requestID": "1073225ad3e94ab4aafc1c2ad5f74c8e",
+    "eventID": "68ae1048-e685-48e9-aa8e-cebe6a0f3a19",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "7183776"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA7D31J4BA8E0CJF364",
+      "arn": "arn:aws:iam::2868402:user/user-bwfjylyp",
+      "accountId": "2868402",
+      "userName": "user-bwfjylyp"
+    },
+    "eventTime": "2025-09-08T02:24:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetObject",
+    "awsRegion": "us-east-1",
+    "sourceIPAddress": "113.215.185.87",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "data-kge9fhcd",
+      "key": "2025/09/26/1ii7e9b76890.json"
+    },
+    "responseElements": null,
+    "requestID": "da5df1eb2a784b30ac45902d3232ff09",
+    "eventID": "e5d1072f-0dd8-4516-8805-23fbc40d64f5",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "2868402"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAB6FI79JDF768BE4K1",
+      "arn": "arn:aws:iam::9152735:user/user-syfbanlj",
+      "accountId": "9152735",
+      "userName": "user-syfbanlj"
+    },
+    "eventTime": "2025-09-08T00:44:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DescribeInstances",
+    "awsRegion": "eu-east-1",
+    "sourceIPAddress": "73.18.45.11",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "logs-93j58i9b",
+      "key": "2025/10/16/51641feba0kk.json"
+    },
+    "responseElements": null,
+    "requestID": "06581a8821824b01823d36aabc3f9e67",
+    "eventID": "622a0820-f638-40f3-9a8e-1a41b187573f",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "9152735"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAJC1K4C55K459A0I6E",
+      "arn": "arn:aws:iam::2438303:user/user-vajpntmk",
+      "accountId": "2438303",
+      "userName": "user-vajpntmk"
+    },
+    "eventTime": "2025-09-08T13:20:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DescribeInstances",
+    "awsRegion": "eu-east-2",
+    "sourceIPAddress": "191.132.169.11",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "logs-e1hfkd51",
+      "key": "2025/11/03/ee32ai74b67d.json"
+    },
+    "responseElements": null,
+    "requestID": "314c17aed5194b688472bc096c471b9e",
+    "eventID": "aaa0b463-6b60-4d39-8fb1-23002828cea6",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "2438303"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAKDB2J403BDJF5H0DD",
+      "arn": "arn:aws:iam::7516567:user/user-rwfzkuod",
+      "accountId": "7516567",
+      "userName": "user-rwfzkuod"
+    },
+    "eventTime": "2025-09-07T22:09:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetObject",
+    "awsRegion": "eu-east-1",
+    "sourceIPAddress": "185.88.222.145",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "data-k41a7a8b",
+      "key": "2025/11/26/b1ckb3dcf6db.json"
+    },
+    "responseElements": null,
+    "requestID": "c5ccbc7f757c4d04baeeeac824380355",
+    "eventID": "3fddea5e-23bc-4309-8c7d-91f3e1e05628",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "7516567"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA5GIGE13G5E908G29A",
+      "arn": "arn:aws:iam::3710988:user/user-nenfzkci",
+      "accountId": "3710988",
+      "userName": "user-nenfzkci"
+    },
+    "eventTime": "2025-09-07T21:27:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutBucketPolicy",
+    "awsRegion": "us-east-1",
+    "sourceIPAddress": "229.68.24.147",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "data-djka259k",
+      "key": "2025/06/06/2d4ed2i4c367.json"
+    },
+    "responseElements": null,
+    "requestID": "888e6083a9f34fcbbf66b91ebd7a5adb",
+    "eventID": "d0c15174-d09b-4cd0-84cf-78bb55c58893",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "3710988"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA6F0H2FHC914CAA96C",
+      "arn": "arn:aws:iam::9397605:user/user-oywlrrqd",
+      "accountId": "9397605",
+      "userName": "user-oywlrrqd"
+    },
+    "eventTime": "2025-09-08T03:49:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutObject",
+    "awsRegion": "eu-west-2",
+    "sourceIPAddress": "49.4.155.228",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "logs-h68i2k57",
+      "key": "2025/08/10/hf8akcf4e65i.json"
+    },
+    "responseElements": null,
+    "requestID": "34b46a0d09a2480da18de5ffe507d160",
+    "eventID": "bcb7d84c-64bb-4415-b977-b2bab96259d2",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "9397605"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAB77BCGK6KI834GBH6",
+      "arn": "arn:aws:iam::2020606:user/user-hlbejufk",
+      "accountId": "2020606",
+      "userName": "user-hlbejufk"
+    },
+    "eventTime": "2025-09-07T20:11:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetObject",
+    "awsRegion": "us-east-1",
+    "sourceIPAddress": "47.76.149.120",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "data-jb4ek44h",
+      "key": "2025/09/02/5dka0e7974b1.json"
+    },
+    "responseElements": null,
+    "requestID": "2a924e3ce5ca488ab2da5496d71c295c",
+    "eventID": "52df6898-20a7-49a3-9168-97777adda127",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "2020606"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA36BIJEHDAC5HG62E2",
+      "arn": "arn:aws:iam::5683534:user/user-ostoxanb",
+      "accountId": "5683534",
+      "userName": "user-ostoxanb"
+    },
+    "eventTime": "2025-09-08T08:33:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DeleteObject",
+    "awsRegion": "us-west-2",
+    "sourceIPAddress": "40.113.103.208",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "backup-16kffg09",
+      "key": "2025/07/15/hd370680gha2.json"
+    },
+    "responseElements": null,
+    "requestID": "1e150a7109324b6faa7f86aec32b1f86",
+    "eventID": "e5308d29-f5a1-48d5-b9b4-9340ab6dea98",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "5683534"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKACCG2A0AE335B7K989",
+      "arn": "arn:aws:iam::7817366:user/user-jppbzwiw",
+      "accountId": "7817366",
+      "userName": "user-jppbzwiw"
+    },
+    "eventTime": "2025-09-08T05:31:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutBucketPolicy",
+    "awsRegion": "eu-west-2",
+    "sourceIPAddress": "34.109.60.57",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "logs-20a0dh83",
+      "key": "2025/08/01/7ii06hfjjk20.json"
+    },
+    "responseElements": null,
+    "requestID": "a09f98c5495c4145bd63576a11619cfa",
+    "eventID": "fe5d1f9f-dd3d-4e12-8f1f-7fb8017d0ee3",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "7817366"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAIJC42HC1CHC480B07",
+      "arn": "arn:aws:iam::4920916:user/user-ppsrrrfj",
+      "accountId": "4920916",
+      "userName": "user-ppsrrrfj"
+    },
+    "eventTime": "2025-09-07T19:15:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutObject",
+    "awsRegion": "eu-east-1",
+    "sourceIPAddress": "6.13.145.130",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "data-006c85c4",
+      "key": "2025/11/11/5864e45hc8d0.json"
+    },
+    "responseElements": null,
+    "requestID": "9fb5e233366e4a2283f9ad8295b0807e",
+    "eventID": "c03fd6a0-7ec3-4f87-8f52-2ab682afa39d",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "4920916"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA7BEEC3A8FCJIFB31J",
+      "arn": "arn:aws:iam::6457529:user/user-ejlwacxt",
+      "accountId": "6457529",
+      "userName": "user-ejlwacxt"
+    },
+    "eventTime": "2025-09-08T06:19:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "CreateBucket",
+    "awsRegion": "eu-west-2",
+    "sourceIPAddress": "219.60.247.53",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "archive-060gkj7c",
+      "key": "2025/06/20/if1a80b8ja0k.json"
+    },
+    "responseElements": null,
+    "requestID": "620f1bca03c8447abf2c938a60f2ca0c",
+    "eventID": "c9b56fa0-f488-4350-b143-38ac634ca66c",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "6457529"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAHC2HJ896694A3GG1D",
+      "arn": "arn:aws:iam::2058124:user/user-ggvplbuv",
+      "accountId": "2058124",
+      "userName": "user-ggvplbuv"
+    },
+    "eventTime": "2025-09-08T05:08:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutObject",
+    "awsRegion": "us-west-2",
+    "sourceIPAddress": "218.32.41.52",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "data-2b9cdif2",
+      "key": "2025/08/27/61jei0g6ac8b.json"
+    },
+    "responseElements": null,
+    "requestID": "edb05de792754c1b99c7af74a35b1947",
+    "eventID": "45338001-85ef-4014-85a3-d04d6d289b0c",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "2058124"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAA872807A7C1J339JI",
+      "arn": "arn:aws:iam::1182463:user/user-wufabdox",
+      "accountId": "1182463",
+      "userName": "user-wufabdox"
+    },
+    "eventTime": "2025-09-08T09:41:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DescribeInstances",
+    "awsRegion": "eu-west-1",
+    "sourceIPAddress": "92.247.81.97",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "logs-4cjdd3ig",
+      "key": "2025/11/11/5c5c1jc9gf1g.json"
+    },
+    "responseElements": null,
+    "requestID": "be002ad06de341f985924707ad083660",
+    "eventID": "8cf844d3-06f0-441c-b009-8c7aca9ba474",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1182463"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAEFAAEC2D0203CKA8I",
+      "arn": "arn:aws:iam::5658962:user/user-vgeglinc",
+      "accountId": "5658962",
+      "userName": "user-vgeglinc"
+    },
+    "eventTime": "2025-09-08T00:43:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetBucketPolicy",
+    "awsRegion": "eu-east-2",
+    "sourceIPAddress": "54.96.168.244",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "logs-i21j0hh4",
+      "key": "2025/07/24/0i63ed5hb5f1.json"
+    },
+    "responseElements": null,
+    "requestID": "ba1283c6f15a4fb2a5455c40ce951805",
+    "eventID": "08af6195-f780-4b09-aa8c-aadf60c174f1",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "5658962"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKABG5BFG46I455A02C8",
+      "arn": "arn:aws:iam::8416700:user/user-yomppnmu",
+      "accountId": "8416700",
+      "userName": "user-yomppnmu"
+    },
+    "eventTime": "2025-09-08T16:09:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetBucketPolicy",
+    "awsRegion": "us-east-2",
+    "sourceIPAddress": "71.69.133.139",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "logs-60ah8kgh",
+      "key": "2025/06/04/42ba347aji9b.json"
+    },
+    "responseElements": null,
+    "requestID": "4c5f8f0fed2d4dd6866dc6e95501d2cf",
+    "eventID": "0901943a-def0-4c95-9229-4583885e6c95",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "8416700"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA9E8D826KIK7CDIG77",
+      "arn": "arn:aws:iam::1539430:user/user-yfdeuhrx",
+      "accountId": "1539430",
+      "userName": "user-yfdeuhrx"
+    },
+    "eventTime": "2025-09-07T21:03:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetBucketPolicy",
+    "awsRegion": "us-east-2",
+    "sourceIPAddress": "72.85.33.148",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "archive-67cgjhji",
+      "key": "2025/08/02/30c6kff8d3ai.json"
+    },
+    "responseElements": null,
+    "requestID": "b0030d1204e24be5befb5257d8420716",
+    "eventID": "30edb039-284c-44b7-8735-35577b336dc9",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1539430"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAG0IIK993FJ0J7H199",
+      "arn": "arn:aws:iam::6705081:user/user-yoqugveq",
+      "accountId": "6705081",
+      "userName": "user-yoqugveq"
+    },
+    "eventTime": "2025-09-07T23:04:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetObject",
+    "awsRegion": "us-east-1",
+    "sourceIPAddress": "98.1.36.13",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "data-f466kgjf",
+      "key": "2025/12/28/816he95j09d4.json"
+    },
+    "responseElements": null,
+    "requestID": "11b23a5df711440296a5e0da81f23580",
+    "eventID": "624d3c92-7c05-4c2d-9d98-c9d14fd15827",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "6705081"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA00IFCAAK547FKE6EI",
+      "arn": "arn:aws:iam::6523149:user/user-nrdfette",
+      "accountId": "6523149",
+      "userName": "user-nrdfette"
+    },
+    "eventTime": "2025-09-08T00:23:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DeleteObject",
+    "awsRegion": "us-east-1",
+    "sourceIPAddress": "89.43.96.227",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "data-f24790kc",
+      "key": "2025/09/06/a425bc1b7f2k.json"
+    },
+    "responseElements": null,
+    "requestID": "1a6391ff57e541b086ccd89d87af9a57",
+    "eventID": "22e082c7-8c50-43f2-8f54-12d10cc5fc02",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "6523149"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA8JA4HFE5F003C63C0",
+      "arn": "arn:aws:iam::7493745:user/user-zyvdzrlv",
+      "accountId": "7493745",
+      "userName": "user-zyvdzrlv"
+    },
+    "eventTime": "2025-09-08T10:42:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "ListObject",
+    "awsRegion": "us-west-2",
+    "sourceIPAddress": "194.42.116.158",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "data-acedj5a8",
+      "key": "2025/08/17/j0i79bda6kab.json"
+    },
+    "responseElements": null,
+    "requestID": "cd310e70c991439984cb6ca21fe50fc1",
+    "eventID": "dfe1fdcd-1a18-485b-9e05-0e377e685ed9",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "7493745"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA084DAGC48DIKKJ3FI",
+      "arn": "arn:aws:iam::8909051:user/user-lknjvvyx",
+      "accountId": "8909051",
+      "userName": "user-lknjvvyx"
+    },
+    "eventTime": "2025-09-08T11:14:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DeleteObject",
+    "awsRegion": "us-west-1",
+    "sourceIPAddress": "101.237.172.200",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "logs-ad2jg37g",
+      "key": "2025/09/19/eakh1igijfig.json"
+    },
+    "responseElements": null,
+    "requestID": "fe8c7489a6694079820d8d9d5c56a5b5",
+    "eventID": "b958fe9d-55a2-4006-b286-cf6e3a6e5471",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "8909051"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA9H2GEC82HDK51C93J",
+      "arn": "arn:aws:iam::4946317:user/user-iiasojls",
+      "accountId": "4946317",
+      "userName": "user-iiasojls"
+    },
+    "eventTime": "2025-09-08T15:30:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DescribeInstances",
+    "awsRegion": "us-west-1",
+    "sourceIPAddress": "196.144.144.246",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "data-05chj2cg",
+      "key": "2025/07/11/119becdkf34c.json"
+    },
+    "responseElements": null,
+    "requestID": "b898562b17a94390a4c699c38dcb4c46",
+    "eventID": "53009ee2-b665-420b-94c4-3f3ff793a9ed",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "4946317"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA0JGDJ2AJ3H2625F1C",
+      "arn": "arn:aws:iam::2767927:user/user-dlvcpthk",
+      "accountId": "2767927",
+      "userName": "user-dlvcpthk"
+    },
+    "eventTime": "2025-09-08T09:34:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "ListObject",
+    "awsRegion": "eu-west-2",
+    "sourceIPAddress": "64.233.146.90",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "backup-k9i94adg",
+      "key": "2025/07/02/900e3ei9161j.json"
+    },
+    "responseElements": null,
+    "requestID": "731bdf8d99f44f51b24a7fa1b231cf23",
+    "eventID": "295c93d8-e937-4d83-a00d-8eb51a95bdf8",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "2767927"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA54I58B208FA2E92JB",
+      "arn": "arn:aws:iam::5959605:user/user-dzmsgvur",
+      "accountId": "5959605",
+      "userName": "user-dzmsgvur"
+    },
+    "eventTime": "2025-09-07T20:03:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DeleteObject",
+    "awsRegion": "us-east-2",
+    "sourceIPAddress": "179.240.49.156",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "data-f9b3449f",
+      "key": "2025/07/02/fhcgi1cj9ha0.json"
+    },
+    "responseElements": null,
+    "requestID": "bca46604f0a84e9189a34a28b7f33da3",
+    "eventID": "91e77209-2bcf-4197-909c-58359d4438b7",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "5959605"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA08C81099874DFF40I",
+      "arn": "arn:aws:iam::1162976:user/user-edgugolg",
+      "accountId": "1162976",
+      "userName": "user-edgugolg"
+    },
+    "eventTime": "2025-09-08T15:30:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutObject",
+    "awsRegion": "us-east-2",
+    "sourceIPAddress": "155.33.40.223",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "logs-ahfige25",
+      "key": "2025/07/28/0g413573846i.json"
+    },
+    "responseElements": null,
+    "requestID": "37b713c167014d77ad27d50b79794122",
+    "eventID": "7e3da297-eef5-46d0-89e4-7b10ece5f69a",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1162976"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAKECBCH4119BKK62GB",
+      "arn": "arn:aws:iam::3478866:user/user-ulqepsck",
+      "accountId": "3478866",
+      "userName": "user-ulqepsck"
+    },
+    "eventTime": "2025-09-07T22:58:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetBucketPolicy",
+    "awsRegion": "eu-east-1",
+    "sourceIPAddress": "222.243.191.91",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "backup-68385aig",
+      "key": "2025/10/15/chgfd9d582b7.json"
+    },
+    "responseElements": null,
+    "requestID": "1c00750b505c4a33badc7684d96846d8",
+    "eventID": "ef9146a1-1388-4c8e-b2f9-f500eda698aa",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "3478866"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA991AI1H75JJ0F0CBI",
+      "arn": "arn:aws:iam::1611792:user/user-xbuvcasb",
+      "accountId": "1611792",
+      "userName": "user-xbuvcasb"
+    },
+    "eventTime": "2025-09-07T20:36:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "ListObject",
+    "awsRegion": "eu-east-1",
+    "sourceIPAddress": "7.55.101.205",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "backup-537fh284",
+      "key": "2025/12/21/7dij09fh75f4.json"
+    },
+    "responseElements": null,
+    "requestID": "6794423b52ca415a8fd12ddf80cb35cb",
+    "eventID": "dc4f7927-1556-4fdd-95b8-8e0af00a735a",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1611792"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA595D0J817623E8494",
+      "arn": "arn:aws:iam::8372412:user/user-cnwesrha",
+      "accountId": "8372412",
+      "userName": "user-cnwesrha"
+    },
+    "eventTime": "2025-09-08T09:05:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "CreateBucket",
+    "awsRegion": "eu-east-2",
+    "sourceIPAddress": "224.10.68.71",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "data-3b3ijheh",
+      "key": "2025/09/01/cc25jh4673k4.json"
+    },
+    "responseElements": null,
+    "requestID": "a694559c27704252b03c0d7f53c87400",
+    "eventID": "10d7c4fd-4cec-4e1f-9563-e1576880c5ab",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "8372412"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA7CC889559102CHCJI",
+      "arn": "arn:aws:iam::1711618:user/user-pnldrwba",
+      "accountId": "1711618",
+      "userName": "user-pnldrwba"
+    },
+    "eventTime": "2025-09-08T03:38:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DescribeInstances",
+    "awsRegion": "eu-west-1",
+    "sourceIPAddress": "26.116.27.241",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "backup-e681b8hd",
+      "key": "2025/06/19/5akifj6bf8di.json"
+    },
+    "responseElements": null,
+    "requestID": "1e25becc29204224ae33f2eeb5658ba8",
+    "eventID": "e902fd13-5484-407e-81f0-b355de788d8b",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1711618"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAD8C81EDJK52596069",
+      "arn": "arn:aws:iam::7288050:user/user-fqbxwwib",
+      "accountId": "7288050",
+      "userName": "user-fqbxwwib"
+    },
+    "eventTime": "2025-09-07T21:34:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DeleteObject",
+    "awsRegion": "us-west-2",
+    "sourceIPAddress": "142.165.25.81",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "backup-edkc2329",
+      "key": "2025/09/18/h73ajfa511h9.json"
+    },
+    "responseElements": null,
+    "requestID": "4d516c53260f4f20ae2ef11be82465d5",
+    "eventID": "072df456-06b0-4215-8a86-c406ec49056f",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "7288050"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAIDK5JDEI6G8BFEE50",
+      "arn": "arn:aws:iam::9111735:user/user-ypvgjvvv",
+      "accountId": "9111735",
+      "userName": "user-ypvgjvvv"
+    },
+    "eventTime": "2025-09-08T08:29:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DescribeInstances",
+    "awsRegion": "us-east-1",
+    "sourceIPAddress": "255.245.192.136",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "logs-hg6281cf",
+      "key": "2025/08/09/1d9f6f81fki0.json"
+    },
+    "responseElements": null,
+    "requestID": "448930bcf4574331873538185de4a9c8",
+    "eventID": "d71d33d7-a521-4b1e-96e7-a7ef741db585",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "9111735"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAC1F1IE62DEAI0AG97",
+      "arn": "arn:aws:iam::4313336:user/user-eamqkrzk",
+      "accountId": "4313336",
+      "userName": "user-eamqkrzk"
+    },
+    "eventTime": "2025-09-08T15:01:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetBucketPolicy",
+    "awsRegion": "us-east-2",
+    "sourceIPAddress": "243.75.160.215",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "data-231g2017",
+      "key": "2025/09/11/jbe4fgebdea7.json"
+    },
+    "responseElements": null,
+    "requestID": "3b8c35b164374d8e9101b6ef25871f57",
+    "eventID": "80522643-8f52-4d0b-b8ac-abacdf74dc6f",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "4313336"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAABJ781F81BHEDF58D",
+      "arn": "arn:aws:iam::1836910:user/user-jrnqhaib",
+      "accountId": "1836910",
+      "userName": "user-jrnqhaib"
+    },
+    "eventTime": "2025-09-07T21:24:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "ListObject",
+    "awsRegion": "us-west-1",
+    "sourceIPAddress": "14.105.26.218",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "logs-70ae52a6",
+      "key": "2025/06/09/j0ie8ad89fif.json"
+    },
+    "responseElements": null,
+    "requestID": "8ef8be7cc2514af48a4db63cc14ca1a5",
+    "eventID": "148097fe-a1e9-4091-abf5-36a915901bd8",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1836910"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA7H9K9DJBFKI56F6GB",
+      "arn": "arn:aws:iam::2567286:user/user-sflmafav",
+      "accountId": "2567286",
+      "userName": "user-sflmafav"
+    },
+    "eventTime": "2025-09-07T18:37:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutBucketPolicy",
+    "awsRegion": "eu-west-1",
+    "sourceIPAddress": "37.149.86.226",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "backup-92dca47b",
+      "key": "2025/12/15/86c4112hhb9g.json"
+    },
+    "responseElements": null,
+    "requestID": "513e8c6c96c441cfbbb3c47fc7369300",
+    "eventID": "55dff7e9-f2be-478c-a954-a56ec554ba75",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "2567286"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAC995A7D86FHIJ396G",
+      "arn": "arn:aws:iam::8403746:user/user-cumkcdyu",
+      "accountId": "8403746",
+      "userName": "user-cumkcdyu"
+    },
+    "eventTime": "2025-09-08T09:55:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "CreateBucket",
+    "awsRegion": "eu-west-2",
+    "sourceIPAddress": "221.55.94.31",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "backup-93j27j5h",
+      "key": "2025/09/06/h24c3jdh65b1.json"
+    },
+    "responseElements": null,
+    "requestID": "92adb5304c1a40bbadecc67e54f259d6",
+    "eventID": "1b31835d-b5ba-4d60-982f-e623ef71fe25",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "8403746"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA93K32J1E52JG0490D",
+      "arn": "arn:aws:iam::5475583:user/user-nheqgycy",
+      "accountId": "5475583",
+      "userName": "user-nheqgycy"
+    },
+    "eventTime": "2025-09-08T07:41:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "ListObject",
+    "awsRegion": "eu-west-2",
+    "sourceIPAddress": "146.77.232.253",
+    "userAgent": "aws-sdk-nodejs/3.6.1 linux/v12.18.2",
+    "requestParameters": {
+      "bucketName": "archive-407f13fc",
+      "key": "2025/07/23/959544973cfa.json"
+    },
+    "responseElements": null,
+    "requestID": "bc793bdce8f541f3bc4d9f14b02cde96",
+    "eventID": "1c50d891-f642-4f9c-9d00-e1b2b09e4a08",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "5475583"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAG1DF722FE1051K41J",
+      "arn": "arn:aws:iam::6915505:user/user-wnhgqpon",
+      "accountId": "6915505",
+      "userName": "user-wnhgqpon"
+    },
+    "eventTime": "2025-09-08T17:54:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "CreateBucket",
+    "awsRegion": "eu-east-2",
+    "sourceIPAddress": "214.20.209.226",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "archive-b3ba340g",
+      "key": "2025/12/05/fddj7hc1be79.json"
+    },
+    "responseElements": null,
+    "requestID": "0da6117ba03b4fe4988389187558c1b8",
+    "eventID": "3f360432-8404-4cb7-9417-9d7e769894c6",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "6915505"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA709FF1IFAIC9K9BB8",
+      "arn": "arn:aws:iam::1669038:user/user-znzdubtr",
+      "accountId": "1669038",
+      "userName": "user-znzdubtr"
+    },
+    "eventTime": "2025-09-08T02:03:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "CreateBucket",
+    "awsRegion": "eu-east-1",
+    "sourceIPAddress": "32.75.186.128",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "data-j9g38h02",
+      "key": "2025/11/26/ic9j1k4i70d9.json"
+    },
+    "responseElements": null,
+    "requestID": "67ab6c8f7e9d4b87a95a052a9305176d",
+    "eventID": "16819340-e42f-4a0e-915b-74a99460ad78",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1669038"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA3E7HD6B7GJI3J98HA",
+      "arn": "arn:aws:iam::7989633:user/user-toqmijji",
+      "accountId": "7989633",
+      "userName": "user-toqmijji"
+    },
+    "eventTime": "2025-09-08T02:48:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutObject",
+    "awsRegion": "us-west-2",
+    "sourceIPAddress": "31.14.252.175",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "logs-e63c957f",
+      "key": "2025/09/16/63ahc6dc9c15.json"
+    },
+    "responseElements": null,
+    "requestID": "ff41ae9a34b34144b880fc30c6c75941",
+    "eventID": "bf121b83-6881-4ffc-b880-98270efe9882",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "7989633"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAA9DF6JD8305HH1A2C",
+      "arn": "arn:aws:iam::2369966:user/user-rtpqnqbp",
+      "accountId": "2369966",
+      "userName": "user-rtpqnqbp"
+    },
+    "eventTime": "2025-09-08T04:09:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetBucketPolicy",
+    "awsRegion": "eu-east-2",
+    "sourceIPAddress": "35.74.228.81",
+    "userAgent": "terraform-provider-aws/3.44.0",
+    "requestParameters": {
+      "bucketName": "data-04355de6",
+      "key": "2025/10/22/21j6c0hg69gi.json"
+    },
+    "responseElements": null,
+    "requestID": "d82d1d0acd89432b9030112287a114df",
+    "eventID": "b27b1006-a049-47bf-8f11-c0c7017717f9",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "2369966"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAE7I6FF4E68I5HIJG0",
+      "arn": "arn:aws:iam::1514166:user/user-rhlrscfv",
+      "accountId": "1514166",
+      "userName": "user-rhlrscfv"
+    },
+    "eventTime": "2025-09-08T17:40:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetBucketPolicy",
+    "awsRegion": "eu-west-1",
+    "sourceIPAddress": "122.232.233.93",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "data-a00dd6kb",
+      "key": "2025/06/18/52a645845i3f.json"
+    },
+    "responseElements": null,
+    "requestID": "575bc49321ea4c3091bdbc5602ad0ae8",
+    "eventID": "40889533-6937-44fe-9bb6-ccaefba54e04",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1514166"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKAI19515JC83AB26G09",
+      "arn": "arn:aws:iam::1851387:user/user-kviacogp",
+      "accountId": "1851387",
+      "userName": "user-kviacogp"
+    },
+    "eventTime": "2025-09-08T00:25:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "PutObject",
+    "awsRegion": "us-east-1",
+    "sourceIPAddress": "68.235.142.63",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "backup-kda5c1gf",
+      "key": "2025/10/17/g87hk52ffd6d.json"
+    },
+    "responseElements": null,
+    "requestID": "e67bff8b9ea1468583c9883afd47bdbd",
+    "eventID": "5649666f-fcaa-4be3-8419-5ba0e269b896",
+    "readOnly": true,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "1851387"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA6CHB4K2AG9F1G21BJ",
+      "arn": "arn:aws:iam::7700464:user/user-hhcikjiz",
+      "accountId": "7700464",
+      "userName": "user-hhcikjiz"
+    },
+    "eventTime": "2025-09-08T02:09:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "DeleteObject",
+    "awsRegion": "eu-west-1",
+    "sourceIPAddress": "31.148.240.150",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.5 Darwin/18.7.0 botocore/2.0.0dev10",
+    "requestParameters": {
+      "bucketName": "archive-6fj8jdkh",
+      "key": "2025/12/03/33834870edbk.json"
+    },
+    "responseElements": null,
+    "requestID": "508db242eb634819a86040b7fd5e3575",
+    "eventID": "0beb37f3-5a32-4f8d-8551-45cb9af4be6b",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "7700464"
+  },
+  {
+    "eventVersion": "1.08",
+    "userIdentity": {
+      "type": "IAMUser",
+      "principalId": "AIKA866FKD862F4AA18HJ",
+      "arn": "arn:aws:iam::3386626:user/user-tyejbgpu",
+      "accountId": "3386626",
+      "userName": "user-tyejbgpu"
+    },
+    "eventTime": "2025-09-08T05:37:00Z",
+    "eventSource": "s3.amazonaws.com",
+    "eventName": "GetObject",
+    "awsRegion": "eu-west-1",
+    "sourceIPAddress": "34.202.215.200",
+    "userAgent": "Boto3/1.17.78 Python/3.8.5 Linux/5.4.0-1037-aws",
+    "requestParameters": {
+      "bucketName": "logs-1fb86f6h",
+      "key": "2025/07/28/72kidjkbdbc5.json"
+    },
+    "responseElements": null,
+    "requestID": "32e6ff4a38a645afa826df52efcf2a89",
+    "eventID": "a02ea01a-2cf1-46f2-a610-9ef0a2814a2b",
+    "readOnly": false,
+    "eventType": "AwsApiCall",
+    "managementEvent": true,
+    "recipientAccountId": "3386626"
+  }
+]
