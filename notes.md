@@ -22,7 +22,10 @@ It supports the following filter logic
 - Simplest filter to run 
 - ```jq '.' file.json```
 #### This will return standard json output for the given input 
-`
+
+From here you can access keys, subkeys, and so forth
+```jq '.key.subkey.subkey' ```
+
 - Filter to access an array by value
 -  ```jq '.key[2]' example.json```
 
