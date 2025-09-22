@@ -35,3 +35,4 @@ The Traffic appears to be coming from the host where the SOCKS server is listeni
 
 ## References 
 [SpecterOps Tunneling Guide](https://posts.specterops.io/offensive-security-guide-to-ssh-tunnels-and-proxies-b525cbd4d4c6)
+[SSH Academy](https://www.ssh.com/academy/ssh/tunneling)
