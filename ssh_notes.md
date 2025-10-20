@@ -1,7 +1,7 @@
 
 SSH tunneling aka ssh port forearding
 - Using an existing ssh connection for transporting traffic in an arbitrary manner
-- usually used to move data over encryted ssh connection
+- Usually used to move data over encryted ssh connection
 
 ## Local Port Forwarding
 client traffic -> SSH Connection -> Redirect to dest host/port specified 
@@ -26,8 +26,7 @@ from ssh man page
 
 
 ## Dynamic Port Forwarding
-Traffic from client SSH tunnel sends it to the server which acts as dynamic proxy. 
-The SSH connection will act as a SOCKS server.
+Traffic from client SSH tunnel sends it to the server which acts as dynamic proxy. The SSH connection will act as a SOCKS server.
 The Traffic appears to be coming from the host where the SOCKS server is listening and does not show the IP address of the host that initiated the request, therefore stealthy. 
 
 ```ssh -D port username@server```
